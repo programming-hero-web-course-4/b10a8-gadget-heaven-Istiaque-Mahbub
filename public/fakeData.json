@@ -1,0 +1,257 @@
+{
+    "products": [
+      {
+        "product_id": "SMP001",
+        "product_title": "iPhone 15 Pro Max",
+        "product_image": "https://i.ibb.co.com/ByMpCKf/Screenshot-2024-12-30-200030.png",
+        "category": "Smartphone",
+        "price": 1099.99,
+        "description": "The latest iPhone with a powerful A17 Bionic chip, 5G capabilities, and a stunning Super Retina display.",
+        "Specification": [
+          "6.7-inch OLED Display",
+          "128GB Storage",
+          "12MP Triple Camera",
+          "A17 Bionic Chip",
+          "iOS 16"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": "SMP002",
+        "product_title": "Samsung Galaxy S24 Ultra",
+        "product_image": "https://i.ibb.co.com/ykS0BVb/Screenshot-2024-12-30-200129.png",
+        "category": "Smartphone",
+        "price": 1199.99,
+        "description": "A high-end smartphone with a 200MP camera, AMOLED display, and a top-tier processor.",
+        "Specification": [
+          "6.8-inch Dynamic AMOLED Display",
+          "256GB Storage",
+          "200MP Quad Camera",
+          "Exynos 2200 Chipset",
+          "One UI 6.0"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": "SMP003",
+        "product_title": "Google Pixel 9",
+        "product_image": "https://i.ibb.co.com/98mkXQd/Screenshot-2024-12-30-200226.png",
+        "category": "Smartphone",
+        "price": 899.99,
+        "description": "Google's flagship smartphone featuring advanced AI photography, pure Android experience, and a sleek design.",
+        "Specification": [
+          "6.4-inch OLED Display",
+          "128GB Storage",
+          "50MP Dual Camera",
+          "Google Tensor 2 Chip",
+          "Android 14"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": "SMP004",
+        "product_title": "OnePlus 11 Pro",
+        "product_image": "https://i.ibb.co.com/D1Td9Dj/Screenshot-2024-12-30-200316.png",
+        "category": "Smartphone",
+        "price": 899.99,
+        "description": "A premium Android phone with a Snapdragon 8 Gen 2 processor, fast charging, and a 120Hz AMOLED display.",
+        "Specification": [
+          "6.7-inch Fluid AMOLED Display",
+          "256GB Storage",
+          "50MP Triple Camera",
+          "Snapdragon 8 Gen 2",
+          "OxygenOS"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": "SMP005",
+        "product_title": "Xiaomi 13 Pro",
+        "product_image": "https://i.ibb.co.com/TgV4r6n/Screenshot-2024-12-30-200412.png",
+        "category": "Smartphone",
+        "price": 899.00,
+        "description": "Flagship smartphone with Leica-powered camera, AMOLED display, and 120Hz refresh rate.",
+        "Specification": [
+          "6.73-inch AMOLED Display",
+          "128GB Storage",
+          "50MP Triple Camera",
+          "Snapdragon 8 Gen 2",
+          "MIUI 14"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": "SMP006",
+        "product_title": "Samsung Galaxy Z Fold 5",
+        "product_image": "https://i.ibb.co.com/74bCyHK/Screenshot-2024-12-30-200516.png",
+        "category": "Smartphone",
+        "price": 1799.99,
+        "description": "A foldable smartphone with a 7.6-inch Dynamic AMOLED display and multitasking capabilities.",
+        "Specification": [
+          "7.6-inch Foldable AMOLED Display",
+          "512GB Storage",
+          "50MP Triple Camera",
+          "Snapdragon 8 Gen 2",
+          "One UI 6.0"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": "LAP001",
+        "product_title": "MacBook Pro 16-inch M2",
+        "product_image": "https://i.ibb.co.com/YQXnWGb/Screenshot-2024-12-30-200626.png",
+        "category": "Laptop",
+        "price": 2399.99,
+        "description": "Apple's most powerful MacBook, with M2 Pro chip, stunning Retina display, and all-day battery life.",
+        "Specification": [
+          "16-inch Retina Display",
+          "512GB SSD Storage",
+          "M2 Pro Chip",
+          "16GB RAM",
+          "macOS Ventura"
+        ],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": "LAP002",
+        "product_title": "Dell XPS 13 9310",
+        "product_image": "https://i.ibb.co.com/yVJN6Bf/Screenshot-2024-12-30-200747.png",
+        "category": "Laptop",
+        "price": 1499.99,
+        "description": "A lightweight and powerful laptop with an Intel Core i7 processor, perfect for productivity and creative work.",
+        "Specification": [
+          "13.4-inch InfinityEdge Display",
+          "512GB SSD Storage",
+          "Intel Core i7-1165G7",
+          "16GB RAM",
+          "Windows 11"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": "LAP003",
+        "product_title": "HP Spectre x360 14",
+        "product_image": "https://i.ibb.co.com/kBQkgsy/Screenshot-2024-12-30-200843.png",
+        "category": "Laptop",
+        "price": 1799.99,
+        "description": "A convertible laptop with a 360-degree hinge, Intel Core i7, and a 3K OLED touch display.",
+        "Specification": [
+          "14-inch 3K OLED Touch Display",
+          "1TB SSD Storage",
+          "Intel Core i7-1165G7",
+          "16GB RAM",
+          "Windows 11 Home"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": "SW001",
+        "product_title": "Apple Watch Series 9",
+        "product_image": "https://i.ibb.co.com/2PNQgB2/Screenshot-2024-12-30-200928.png",
+        "category": "Smartwatch",
+        "price": 399.99,
+        "description": "The latest Apple Watch with advanced health tracking, GPS, and a sleek always-on display.",
+        "Specification": [
+          "1.9-inch Retina Display",
+          "GPS + Cellular",
+          "Blood Oxygen and ECG monitoring",
+          "watchOS 10",
+          "IP6X Water Resistance"
+        ],
+        "availability": true,
+        "rating": 4.9
+      },
+      {
+        "product_id": "SW002",
+        "product_title": "Samsung Galaxy Watch 6",
+        "product_image": "https://i.ibb.co.com/kBCtp2b/Screenshot-2024-12-30-201024.png",
+        "category": "Smartwatch",
+        "price": 329.99,
+        "description": "A premium smartwatch with a rotating bezel, advanced fitness tracking, and long-lasting battery life.",
+        "Specification": [
+          "1.4-inch Super AMOLED Display",
+          "GPS + LTE",
+          "Heart Rate & Stress Monitoring",
+          "One UI Watch 5",
+          "IP68 Water Resistance"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": "SW003",
+        "product_title": "Fitbit Versa 4",
+        "product_image": "https://i.ibb.co.com/gZKVJdC/Screenshot-2024-12-30-201113.png",
+        "category": "Smartwatch",
+        "price": 229.99,
+        "description": "A fitness-focused smartwatch with 24/7 heart rate tracking, sleep analysis, and a long battery life.",
+        "Specification": [
+          "1.58-inch AMOLED Display",
+          "GPS + Heart Rate Monitoring",
+          "6+ Days Battery Life",
+          "Fitbit OS",
+          "Water Resistant to 50m"
+        ],
+        "availability": true,
+        "rating": 4.5
+      },
+      {
+        "product_id": "ACC001",
+        "product_title": "Anker PowerCore 10000mAh Portable Charger",
+        "product_image": "https://i.ibb.co.com/7pkC1GD/Screenshot-2024-12-30-201211.png",
+        "category": "Accessory",
+        "price": 29.99,
+        "description": "A compact, high-capacity portable charger for smartphones, with fast charging capabilities.",
+        "Specification": [
+          "10,000mAh Battery Capacity",
+          "Fast Charging Support",
+          "Compact and Lightweight",
+          "Dual USB-A Ports"
+        ],
+        "availability": true,
+        "rating": 4.8
+      },
+      {
+        "product_id": "ACC002",
+        "product_title": "JBL Tune 125TWS Wireless Earbuds",
+        "product_image": "https://i.ibb.co.com/MMDtzGB/Screenshot-2024-12-30-201253.png",
+        "category": "Accessory",
+        "price": 99.99,
+        "description": "Wireless earbuds with JBL signature sound, long battery life, and easy Bluetooth connectivity.",
+        "Specification": [
+          "6 Hours Playtime",
+          "Bluetooth 5.0",
+          "Built-in Microphone",
+          "Sweatproof Design"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": "ACC003",
+        "product_title": "Spigen Ultra Hybrid Case for iPhone 15 Pro",
+        "product_image": "https://i.ibb.co.com/rvmKzpY/Screenshot-2024-12-30-201407.png",
+        "category": "Accessory",
+        "price": 19.99,
+        "description": "A clear, durable case designed to protect your iPhone 15 Pro without hiding its design.",
+        "Specification": [
+          "Clear TPU Material",
+          "Shock Absorption",
+          "Raised Bezel for Screen Protection",
+          "Compatible with Wireless Charging"
+        ],
+        "availability": true,
+        "rating": 4.7
+      }
+    ]
+  }
+  
