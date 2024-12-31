@@ -1,22 +1,22 @@
 [
     {
         "product_id": 1,
-        "category": "Smartphones",
+        "category": "Smartphone",
         "rating": 5
     },
     {
         "product_id": 2,
-        "category": "Laptops",
+        "category": "Laptop",
         "rating": 4.3
     },
     {
         "product_id": 3,
-        "category": "Accessories",
+        "category": "Accessory",
         "rating": 4.5
     },
     {
         "product_id": 4,
-        "category": "Smart Watches",
+        "category": "Smartwatch",
         "rating": 4.7
     }
 ]
