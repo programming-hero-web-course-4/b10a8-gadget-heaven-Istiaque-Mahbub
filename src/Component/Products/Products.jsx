@@ -3,12 +3,13 @@ import Card from "./Card";
 
 
 const Products = ({categories}) => {
+    console.log(categories)
     const [product,setProduct] = useState([]);
     const [categoryData,setCategoryData] = useState([]);
     const [activeCategory,setActiveCategory] = useState('All Categories');
 
     useEffect(()=>{
-        fetch('./fakeData.json')
+        fetch('../fakeData.json')
         .then(res=>res.json())
         .then(data=>{
             console.log(data)
@@ -44,13 +45,13 @@ const Products = ({categories}) => {
                     All Categories
                 </button>
                 {
-                   categories.map(category=><button onClick={()=>handleCategoryButton(category.category)}
-                     key={category.category} 
-                    className={`${
-                        activeCategory === category.category ? 'bg-[#9538E2] text-white' : 'border-2 border-[#9538E2] text-[#9538E2]'
-                    }font-bold btn-lg rounded-full`}>
-                    {category.category}
-                   </button>)
+                   categories && categories.map(category=><button onClick={()=>handleCategoryButton(category.category)}
+                   key={category.category} 
+                  className={`${
+                      activeCategory === category.category ? 'bg-[#9538E2] text-white' : 'border-2 border-[#9538E2] text-[#9538E2]'
+                  }font-bold btn-lg rounded-full`}>
+                  {category.category}
+                 </button>)
                 }
                </div>
              </div>

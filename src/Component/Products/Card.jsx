@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const Card = ({data}) => {
-    const {product_title,product_image,price,category} =data
+    const {product_title,product_image,price,category,product_id} =data
     return (
         <div>
              <div className="bg-white shadow-lg rounded-lg ">
@@ -15,7 +15,7 @@ const Card = ({data}) => {
                 <h2 className="text-xl font-semibold text-gray-800">{product_title}</h2>
                 <h4> {category}</h4>
                 <p className="text-lg font-bold text-gray-900 mt-2">${price}</p> 
-              <Link>
+              <Link to={`/category/${product_id}`}>
               <button  className="mt-4 w-full bg-[#9538E2] text-white font-bold py-2 rounded-full hover:bg-[#7a1cae] transition">
                     View Details
                 </button>

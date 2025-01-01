@@ -5,9 +5,9 @@ import BannerImage from '../Component/Banner/BannerImage';
 import Products from '../Component/Products/Products';
 import { useLoaderData } from 'react-router-dom';
 
+
 const Home = () => {
     const categories = useLoaderData();
-    console.log(categories)
     return (
         <div>
             <Helmet>
@@ -16,6 +16,7 @@ const Home = () => {
             <Banner></Banner>
             <BannerImage></BannerImage>
             <Products categories={categories}></Products>
+           
         </div>
     );
 };
